@@ -2,13 +2,13 @@
 
 ![About Me](https://img.shields.io/badge/About-Me-blue?style=for-the-badge)
 
-I'm Judith Muthui, a skilled full-stack software engineer passionate about crafting elegant, user-friendly applications..<br>
+I'm Brian Iraru, a skilled full-stack software engineer passionate about crafting elegant, user-friendly applications..<br>
 for exceptional user experiences. 
 
 
 
 ### 💻 SKILL SET:
-`HTML5`, `CSS3`, `Tailwind CSS`, `Javascript`, `React(Next.js)`, `Redux`, `vue3`, `Typescript`, `NodeJs`, `Python`,  `PHP (Laravel 11)`, `MsSQL`, `MySQL`,`PostgreSQL`,`MongoDB`, `Sequelize` .
+`HTML5`, `CSS3`, `Tailwind CSS`, `Javascript`, `React(Next.js)`,  `Typescript`, `Python`, `Flask`,`PostgreSQL`, `Sequelize` .
 
 
 ### 📊 GITHUB STATS:
