@@ -12,7 +12,7 @@ I'm **Brian Iraru**, a skilled full-stack software engineer passionate about cra
 |----------|--------------|
 | Frontend | `HTML5`, `CSS3`, `Tailwind CSS`, `JavaScript`, `React (Next.js)`, `TypeScript` |
 | Backend | `Python`, `Flask` |
-| Database | `PostgreSQL`, `Sequelize` |
+| Database | `PostgreSQL`, `Sequelize`, `MYSQL`, `SQlite`|
 
 ---
 
