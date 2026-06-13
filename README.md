@@ -2,38 +2,56 @@
 
 ![About Me](https://img.shields.io/badge/About-Me-blue?style=for-the-badge)
 
-I'm Brian Iraru, a skilled full-stack software engineer passionate about crafting elegant, user-friendly applications..<br>
-for exceptional user experiences. 
+I'm **Brian Iraru**, a skilled full-stack software engineer passionate about crafting elegant, user-friendly applications that deliver exceptional user experiences.
 
-
+---
 
 ### 💻 SKILL SET:
-`HTML5`, `CSS3`, `Tailwind CSS`, `Javascript`, `React(Next.js)`,  `Typescript`, `Python`, `Flask`,`PostgreSQL`, `Sequelize` .
 
+| Category | Technologies |
+|----------|--------------|
+| Frontend | `HTML5`, `CSS3`, `Tailwind CSS`, `JavaScript`, `React (Next.js)`, `TypeScript` |
+| Backend | `Python`, `Flask` |
+| Database | `PostgreSQL`, `Sequelize` |
+
+---
 
 ### 📊 GITHUB STATS:
-<center>
-  <table>
-  <tr>
-      <td><img  align="left" src="https://github-readme-stats.vercel.app/api?username=Judiciousmurich&count_private=true&show_icons=true&theme=dark&layout=compact" /></td>
-      <td><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Judiciousmurich&theme=dark" /></td>    
-     
-  </tr>   
-  </table>
-</center>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=irarubrian&count_private=true&show_icons=true&theme=dark&layout=compact" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irarubrian&theme=dark" alt="GitHub Streak" />
+</div>
 
+---
 
-<p align="">
-  <a href="https://github.com/Judiciousmurich?tab=followers">
-    <img src="https://img.shields.io/github/followers/Judiciousmurich?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+### 👥 GitHub Followers:
+
+<p align="center">
+  <a href="https://github.com/irarubrian?tab=followers">
+    <img src="https://img.shields.io/github/followers/irarubrian?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
 </p>
 
+---
 
+## 🌐 Connect With Me:
 
+| Platform | Link |
+|----------|------|
+| **LinkedIn** | [https://www.linkedin.com/in/brian-iraru-89b46034a/](https://www.linkedin.com/in/brian-iraru-89b46034a/) |
+| **Portfolio** | [https://portfolio-s7z8.vercel.app/](https://portfolio-s7z8.vercel.app/) |
+| **WhatsApp** | [Chat on WhatsApp](https://wa.me/254743435490) |
 
- ## 🌐 Socials:
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/judith-muthui-16b535263)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://judith-muthui-portfolio.netlify.app/)
+---
+
+### 📧 Let's Collaborate!
+
+> *Open to exciting opportunities, collaborations, and innovative projects. Feel free to reach out — let's build something amazing together!*
+
+---
+
+### 🏆 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=irarubrian&color=blue&style=flat-square)
